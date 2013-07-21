@@ -1,0 +1,8 @@
+*.suo
+obj/Debug
+obj/Release
+/BitStarter.Web/bin
+*.js
+*.js.map
+*.user
+/BitStarter.Web/obj/Debug
